@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1363534715 source:/home/nonimmemormei/Proj/Xor/main.cpp
+	<iostream>
+	<math.h>
+	<stack>
+	<algorithm>
+
